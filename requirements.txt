@@ -1,4 +1,3 @@
-requirements.txt containing:
 streamlit
 opencv-python-headless
 numpy
