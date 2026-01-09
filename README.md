@@ -17,12 +17,6 @@ A minimal interactive dashboard using **Streamlit** and **OpenCV** to detect, cl
 
 ## 🎛️ Controls & Features
 
-### Sidebar Settings
-*   **Gaussian Blur Kernel Size**: Controls the "smoothness" of the image before processing. Higher values remove noise but blur edges.
-*   **Canny Thresholds (Min/Max)**: correct edges. 
-    *   **Min**: Edges with intensity gradient below this are discarded. **Lower this** if shapes are missing (especially low contrast ones).
-    *   **Max**: Edges above this are sure to be edges.
-
 ### Dashboard
 1.  **Upload Image**: Supports JPG, PNG.
 2.  **Original vs Processed**: Compare the raw input with the detected contours.
