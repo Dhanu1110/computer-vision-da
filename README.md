@@ -15,8 +15,7 @@ A minimal interactive dashboard using **Streamlit** and **OpenCV** to detect, cl
 3.  **Open in Browser**:
     The app will usually open automatically at `http://localhost:8501`.
 
-## 🎛️ Controls & Features
-
+## 🎛️ Features
 ### Dashboard
 1.  **Upload Image**: Supports JPG, PNG.
 2.  **Original vs Processed**: Compare the raw input with the detected contours.
