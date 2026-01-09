@@ -33,11 +33,11 @@ A minimal interactive dashboard using **Streamlit** and **OpenCV** to detect, cl
 
 ## 🧪 Test Images
 The project includes generated test images:
-*   `test_shapes.png`: Basic verification (Triangle, Square, Circle).
-*   `test_basic_shapes.png`: High contrast colorful shapes.
-*   `test_polygons.png`: Triangles and irregular polygons.
-*   `test_low_contrast.png`: Dark shapes on dark background (good for testing sensitivity).
-*   `test_complex_shapes.png`: Stars, L-shapes, and rotated rectangles.
+*   `test_image_1.png`: Basic verification (Triangle, Square, Circle).
+*   `test_image_2.png`: High contrast colorful shapes.
+*   `test_image_3.png`: Triangles and irregular polygons.
+*   `test_image_4.png`: Dark shapes on dark background (good for testing sensitivity).
+*   `test_image_5.png`: Stars, L-shapes, and rotated rectangles.
 
 ## 🛠️ Tech Stack
 *   **Python**: Core Logic
