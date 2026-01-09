@@ -127,7 +127,7 @@ def main():
     canny_min = st.sidebar.slider("Min Threshold", 0, 255, 25)
     canny_max = st.sidebar.slider("Max Threshold", 0, 255, 100)
     
-    st.title("Shape & Contour Analyzer – Interactive Dashboard")
+    st.title("Shape & Contour Analyzer")
     
     # 2. Image Input
     uploaded_file = st.file_uploader("Upload an Image", type=["jpg", "jpeg", "png"])
